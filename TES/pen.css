@@ -8351,3 +8351,16 @@ button.close {
     margin-top: -170px;
     margin-bottom: 200px;
 }
+.text-judul-1 {
+    text-align: center;
+    color: #fff;
+}
+.text-judul-2 {
+    text-align: center;
+    color: #fff;
+}
+.nav-pen {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translateX(59px);
+}
